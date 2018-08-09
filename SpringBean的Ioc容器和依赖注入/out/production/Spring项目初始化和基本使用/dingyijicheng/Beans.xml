@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="helloWorld" class="dingyijicheng.HelloWorld">
+        <property name="message1" value="Hello World!"></property>
+        <property name="message2" value="Hello Second World!"></property>
+    </bean>
+
+    <bean id="helloIndia" class="dingyijicheng.HelloIndia" parent="helloWorld">
+        <property name="message1" value="Hello India!"></property>
+        <property name="message3" value="Namaste India!"></property>
+    </bean>
+</beans>

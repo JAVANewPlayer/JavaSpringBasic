@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="BeanFactory容器的使用:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/BeanFactory_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="BeanFactory容器的使用/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BeanFactory容器的使用" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
