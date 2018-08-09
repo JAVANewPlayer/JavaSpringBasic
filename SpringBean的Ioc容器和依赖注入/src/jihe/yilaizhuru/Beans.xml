@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <bean id="javaCollection" class="jihe.yilaizhuru.JavaCollection">
+        <property name="addressList">
+            <list>
+                <value>印度</value>
+                <value>巴基斯坦</value>
+                <value>美国</value>
+                <value>美国二</value>
+            </list>
+        </property>
+
+        <property name="addressSet">
+            <set>
+                <value>印度</value>
+                <value>巴基斯坦</value>
+                <value>美国</value>
+                <value>美国二</value>
+            </set>
+        </property>
+
+        <property name="addressMap">
+            <map>
+                <entry key="1" value="印度"></entry>
+                <entry key="2" value="巴基斯坦"></entry>
+                <entry key="3" value="美国1"></entry>
+                <entry key="4" value="美国2"></entry>
+            </map>
+        </property>
+
+        <property name="addressProp">
+            <props>
+                <prop key="one">印度</prop>
+                <prop key="two">巴基斯坦</prop>
+                <prop key="three">美国一</prop>
+                <prop key="four">美国二</prop>
+            </props>
+        </property>
+    </bean>
+
+</beans>
