@@ -13,10 +13,8 @@
     </facet>
     <facet type="Spring" name="Spring">
       <configuration>
-        <fileset id="fileset" name="Spring Application Context" removed="false">
-          <file>file://$MODULE_DIR$/src/byName/zidongzhuangpei/Beans.xml</file>
-          <file>file://$MODULE_DIR$/src/byType/zidongzhuangpei/Beans.xml</file>
-          <file>file://$MODULE_DIR$/src/qualifier/zidongzhuangpei/Beans.xml</file>
+        <fileset id="fileset" name="Beans" removed="false">
+          <file>file://$MODULE_DIR$/src/EventHandler/Beans.xml</file>
         </fileset>
       </configuration>
     </facet>

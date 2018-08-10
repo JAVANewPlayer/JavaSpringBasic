@@ -12,20 +12,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Beans.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/byName/zidongzhuangpei/Beans.xml">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/qualifier/zidongzhuangpei/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+            <state relative-caret-position="131">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <folding>
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Profile.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/qualifier/zidongzhuangpei/Profile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/byName/zidongzhuangpei/MainApp.java">
+        <entry file="file://$PROJECT_DIR$/src/qualifier/zidongzhuangpei/MainApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,102 +60,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpellChecker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/byName/zidongzhuangpei/SpellChecker.java">
+      <file leaf-file-name="Beans.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/qualifier/zidongzhuangpei/Beans.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#156#157#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TextEditor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/byName/zidongzhuangpei/TextEditor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/required/zhushipeizhi/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding>
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Beans.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/autowrited/zidongzhuangpei/Beans.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TextEditor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/autowrited/zidongzhuangpei/TextEditor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
+            <state relative-caret-position="330">
               <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpellChecker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/autowrited/zidongzhuangpei/SpellChecker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/autowrited/zidongzhuangpei/MainApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/required/zhushipeizhi/MainApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -138,8 +83,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -161,6 +106,10 @@
         <option value="$PROJECT_DIR$/src/autowrited/zidongzhuangpei/Beans.xml" />
         <option value="$PROJECT_DIR$/src/autowrited/zidongzhuangpei/MainApp.java" />
         <option value="$PROJECT_DIR$/src/autowrited/zidongzhuangpei/TextEditor.java" />
+        <option value="$PROJECT_DIR$/src/qualifier/zidongzhuangpei/Student.java" />
+        <option value="$PROJECT_DIR$/src/qualifier/zidongzhuangpei/Beans.xml" />
+        <option value="$PROJECT_DIR$/src/qualifier/zidongzhuangpei/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/qualifier/zidongzhuangpei/Profile.java" />
       </list>
     </option>
   </component>
@@ -184,7 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -198,29 +146,12 @@
               <item name="SpringBeans的自动装配和基于注释的配置" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SpringBeans的自动装配和基于注释的配置" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBeans的自动装配和基于注释的配置" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zidongzhuangpei" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBeans的自动装配和基于注释的配置" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBeans的自动装配和基于注释的配置" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zidongzhuangpei" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBeans的自动装配和基于注释的配置" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBeans的自动装配和基于注释的配置" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zhushipeizhi" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.autowrited.zidongzhuangpei">
+  <component name="RunManager" selected="Application.qualifier.zidongzhuangpei">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -262,6 +193,11 @@
     </configuration>
     <configuration name="byType.zidongzhuangpei" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="byType.zidongzhuangpei.MainApp" />
+      <module name="SpringBeans的自动装配和基于注释的配置" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="qualifier.zidongzhuangpei" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="qualifier.zidongzhuangpei.MainApp" />
       <module name="SpringBeans的自动装配和基于注释的配置" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
@@ -312,6 +248,7 @@
       <item itemvalue="Application.byName.zidongzhuangpei" />
       <item itemvalue="Application.required.zhushipeizhi" />
       <item itemvalue="Application.autowrited.zidongzhuangpei" />
+      <item itemvalue="Application.qualifier.zidongzhuangpei" />
       <item itemvalue="Application.byType.zidongzhuangpei" />
     </list>
   </component>
@@ -329,14 +266,16 @@
       <workItem from="1533808742306" duration="17000" />
       <workItem from="1533822829915" duration="1791000" />
       <workItem from="1533858392431" duration="3106000" />
+      <workItem from="1533902332815" duration="2164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5841000" />
+    <option name="totallyTimeSpent" value="8005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="229" y="55" width="1356" height="901" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -350,7 +289,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32889965" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
@@ -378,6 +317,89 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/byName/zidongzhuangpei/Beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/byName/zidongzhuangpei/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/byName/zidongzhuangpei/SpellChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/byName/zidongzhuangpei/TextEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/required/zhushipeizhi/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autowrited/zidongzhuangpei/Beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autowrited/zidongzhuangpei/SpellChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autowrited/zidongzhuangpei/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/required/zhushipeizhi/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autowrited/zidongzhuangpei/TextEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/byName/zidongzhuangpei/Beans.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -583,6 +605,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/autowrited/zidongzhuangpei/SpellChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autowrited/zidongzhuangpei/Beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/required/zhushipeizhi/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/byName/zidongzhuangpei/TextEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/byName/zidongzhuangpei/SpellChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -594,17 +644,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/byName/zidongzhuangpei/TextEditor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/byName/zidongzhuangpei/MainApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -618,40 +661,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/required/zhushipeizhi/MainApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/required/zhushipeizhi/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/autowrited/zidongzhuangpei/Beans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/autowrited/zidongzhuangpei/MainApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -662,24 +671,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/autowrited/zidongzhuangpei/SpellChecker.java">
+    <entry file="file://$PROJECT_DIR$/src/required/zhushipeizhi/MainApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="264">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/autowrited/zidongzhuangpei/TextEditor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
+        <state relative-caret-position="330">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qualifier/zidongzhuangpei/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
           <folding>
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qualifier/zidongzhuangpei/Beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qualifier/zidongzhuangpei/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qualifier/zidongzhuangpei/Profile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
           </folding>
         </state>
       </provider>

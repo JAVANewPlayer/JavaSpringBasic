@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+   <context:annotation-config></context:annotation-config>
+
+    <bean id="profile" class="qualifier.zidongzhuangpei.Profile"></bean>
+
+    <bean id="student1" class="qualifier.zidongzhuangpei.Student">
+        <property name="name" value="第一个个学生"></property>
+        <property name="age" value="29"></property>
+    </bean>
+
+    <bean id="student2" class="qualifier.zidongzhuangpei.Student">
+        <property name="name" value="第二个个学生"></property>
+        <property name="age" value="27"></property>
+    </bean>
+
+</beans>
