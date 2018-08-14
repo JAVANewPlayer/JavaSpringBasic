@@ -9,7 +9,7 @@
     <aop:config>
         <aop:aspect id="log" ref="logging">
             <aop:pointcut id="selectAll"
-                          expression="execution(* com.tutorialspoint.*.*(..))"/>
+                          expression="execution(* XMLjiagou.jiyuAOP.*.*(..))"/>
             <aop:before pointcut-ref="selectAll" method="beforeAdvice"/>
             <aop:after pointcut-ref="selectAll" method="afterAdvice"/>
             <aop:after-returning pointcut-ref="selectAll"
@@ -22,12 +22,12 @@
     </aop:config>
 
     <!-- Definition for student bean -->
-    <bean id="student" class="com.tutorialspoint.Student">
+    <bean id="student" class="XMLjiagou.jiyuAOP.Student">
         <property name="name"  value="Zara" />
         <property name="age"  value="11"/>
     </bean>
 
     <!-- Definition for logging aspect -->
-    <bean id="logging" class="com.tutorialspoint.Logging"/>
+    <bean id="logging" class="XMLjiagou.jiyuAOP.Logging"/>
 
 </beans>
