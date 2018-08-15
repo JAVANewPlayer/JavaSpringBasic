@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SpringJDBC框架基本使用" />
+        <module name="SpringJDBC框架基本使用 (1) (com.wacai)" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringJDBC框架基本使用" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
