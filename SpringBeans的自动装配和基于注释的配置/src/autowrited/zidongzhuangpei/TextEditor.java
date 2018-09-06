@@ -1,4 +1,5 @@
 package autowrited.zidongzhuangpei;
+
 import org.springframework.beans.factory.annotation.Autowired;
 
 
@@ -11,7 +12,7 @@ public class TextEditor {
     private SpellChecker spellChecker;
 
     @Autowired
-    public TextEditor(SpellChecker spellChecker){
+    public TextEditor(SpellChecker spellChecker) {
         this.spellChecker = spellChecker;
     }
 
@@ -24,7 +25,7 @@ public class TextEditor {
 //        this.spellChecker = spellChecker;
 //    }
 
-    public void spellCheck(){
+    public void spellCheck() {
         spellChecker.checkSpelling();
     }
 }

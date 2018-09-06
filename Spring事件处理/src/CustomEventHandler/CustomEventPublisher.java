@@ -12,7 +12,7 @@ public class CustomEventPublisher implements ApplicationEventPublisherAware {
         this.publisher = applicationEventPublisher;
     }
 
-    public void publish(){
+    public void publish() {
         CustomEvent ce = new CustomEvent(this);
         publisher.publishEvent(ce);
     }

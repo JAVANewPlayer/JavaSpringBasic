@@ -9,15 +9,15 @@ public class Profile {
     @Qualifier("student1")
     private Student student;
 
-    public Profile(){
+    public Profile() {
         System.out.println("Profile对象构造");
     }
 
-    public void printAge(){
+    public void printAge() {
         System.out.println("Age 是 : " + student.getAge());
     }
 
-    public void printName(){
+    public void printName() {
         System.out.println("名字是 : " + student.getName());
     }
 }

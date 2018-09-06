@@ -6,10 +6,9 @@
 
     <bean id="textEditor" class="neibuzhuru.yilaizhuru.TextEditor">
         <property name="spellChecker">
-            <bean id="spellChecker" class="neibuzhuru.yilaizhuru.SpellChecker" />
+            <bean id="spellChecker" class="neibuzhuru.yilaizhuru.SpellChecker"/>
         </property>
     </bean>
-
 
 
 </beans>

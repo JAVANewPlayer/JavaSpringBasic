@@ -21,13 +21,13 @@ public class Main {
 
         Connection conn = null;
         Statement stmt = null;
-        try{
+        try {
             // 注册 JDBC 驱动
             Class.forName("com.mysql.jdbc.Driver");
 
             // 打开链接
             System.out.println("连接数据库...");
-            conn = DriverManager.getConnection(DB_URL,USER,PASS);
+            conn = DriverManager.getConnection(DB_URL, USER, PASS);
 
             // 执行查询
             System.out.println(" 实例化Statement对象...");
@@ -37,9 +37,9 @@ public class Main {
             ResultSet rs = stmt.executeQuery(sql);
 
             // 展开结果集数据库
-            while(rs.next()){
+            while (rs.next()) {
                 // 通过字段检索
-                int _id  = rs.getInt("_id");
+                int _id = rs.getInt("_id");
                 String name = rs.getString("name");
                 String bio = rs.getString("bio");
 
@@ -53,21 +53,21 @@ public class Main {
             rs.close();
             stmt.close();
             conn.close();
-        }catch(SQLException se){
+        } catch (SQLException se) {
             // 处理 JDBC 错误
             se.printStackTrace();
-        }catch(Exception e){
+        } catch (Exception e) {
             // 处理 Class.forName 错误
             e.printStackTrace();
-        }finally{
+        } finally {
             // 关闭资源
-            try{
-                if(stmt!=null) stmt.close();
-            }catch(SQLException se2){
+            try {
+                if (stmt != null) stmt.close();
+            } catch (SQLException se2) {
             }// 什么都不做
-            try{
-                if(conn!=null) conn.close();
-            }catch(SQLException se){
+            try {
+                if (conn != null) conn.close();
+            } catch (SQLException se) {
                 se.printStackTrace();
             }
         }

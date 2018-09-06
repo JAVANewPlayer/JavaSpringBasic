@@ -21,7 +21,7 @@ public class TextEditor {
         this.name = name;
     }
 
-    public void spellCheck(){
+    public void spellCheck() {
 
         spellChecker.checkSpelling();
     }

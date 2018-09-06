@@ -5,7 +5,7 @@ import org.springframework.beans.PropertyValues;
 import org.springframework.beans.factory.config.BeanPostProcessor;
 import org.springframework.beans.factory.config.InstantiationAwareBeanPostProcessor;
 
-public class HelloWorld implements InstantiationAwareBeanPostProcessor,BeanPostProcessor {
+public class HelloWorld implements InstantiationAwareBeanPostProcessor, BeanPostProcessor {
 
     private String message;
 
@@ -13,12 +13,9 @@ public class HelloWorld implements InstantiationAwareBeanPostProcessor,BeanPostP
         this.message = message;
     }
 
-    public void getMessage(){
+    public void getMessage() {
         System.out.println("Your Message :" + message);
     }
-
-
-
 
 
     //==================InstantiationAwareBeanPostProcessor协议方法==================

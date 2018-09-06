@@ -2,11 +2,11 @@ package gouzaohanshu.yilaizhuru;
 
 public class SpellChecker {
 
-    public SpellChecker(){
+    public SpellChecker() {
         System.out.println("Inside SpellChecker constructor");
     }
 
-    public void checkSpelling(){
+    public void checkSpelling() {
         System.out.println("Inside checkSpelling.");
     }
 }

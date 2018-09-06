@@ -18,18 +18,19 @@ public class IntrduceDemo {
     public void setAge(int age) {
         this.age = age;
     }
+
     /*
     自我介绍
      */
-    public void intrduce(){
+    public void intrduce() {
         System.out.println("您好,我叫" + this.name + "今年" + this.age + "岁");
     }
 
-    public void init(){
+    public void init() {
         System.out.println("Bean初始化....");
     }
 
-    public void destroy(){
+    public void destroy() {
         System.out.println("Bean销毁....");
     }
 }

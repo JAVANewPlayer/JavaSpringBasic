@@ -5,7 +5,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class MainApp {
 
-    public static void  main(String[] args){
+    public static void main(String[] args) {
         ApplicationContext context = new ClassPathXmlApplicationContext("qualifier/zidongzhuangpei/Beans.xml");
         Profile profile = (Profile) context.getBean("profile");
         profile.printAge();

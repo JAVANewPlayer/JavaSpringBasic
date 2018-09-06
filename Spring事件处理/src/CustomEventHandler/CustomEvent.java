@@ -4,11 +4,11 @@ import org.springframework.context.ApplicationEvent;
 
 public class CustomEvent extends ApplicationEvent {
 
-    public CustomEvent(Object source){
+    public CustomEvent(Object source) {
         super(source);
     }
 
-    public String toString(){
+    public String toString() {
         return "自定义事件";
     }
 }

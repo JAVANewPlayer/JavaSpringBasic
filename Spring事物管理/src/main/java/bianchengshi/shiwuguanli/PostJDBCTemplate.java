@@ -10,7 +10,7 @@ import org.springframework.transaction.TransactionDefinition;
 import org.springframework.transaction.TransactionStatus;
 import org.springframework.transaction.support.DefaultTransactionDefinition;
 
-public class PostJDBCTemplate implements PostDAO{
+public class PostJDBCTemplate implements PostDAO {
 
     private DataSource dataSource;
     private JdbcTemplate jdbcTemplateObject;
@@ -33,9 +33,9 @@ public class PostJDBCTemplate implements PostDAO{
         TransactionStatus status = transactionManager.getTransaction(def);
         try {
             String SQL1 = "insert into posts (author,title,content,created_at) value (?, ?, ?, ?)";
-            jdbcTemplateObject.update(SQL1, author, title, content,"2018年8月6日");
+            jdbcTemplateObject.update(SQL1, author, title, content, "2018年8月6日");
             transactionManager.commit(status);
-        }catch (DataAccessException e){
+        } catch (DataAccessException e) {
             System.out.println("出错了");
             transactionManager.rollback(status);
             throw e;

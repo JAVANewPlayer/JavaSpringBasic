@@ -14,11 +14,12 @@ public class FireAssist {
 
     /*记录开火时间*/
     @Before("execution(* *.attack(..))")
-    public void ActionLog() throws  Throwable {
+    public void ActionLog() throws Throwable {
         System.out.println("开火时间："
                 + (new SimpleDateFormat("yyyy-MM-dd HH:mm:ss"))
                 .format(new Date()));
     }
+
     /*报告已完成开火*/
     @After("execution(* *.attack(..))")
     public void ReportComplete() throws Throwable {

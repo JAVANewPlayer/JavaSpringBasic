@@ -5,7 +5,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!--<bean id="textEditor" class="shezhihanshu.yilaizhuru.TextEditor">-->
-        <!--<property name="spellChecker" ref="spellChecker"></property>-->
+    <!--<property name="spellChecker" ref="spellChecker"></property>-->
     <!--</bean>-->
 
     <bean id="textEditor" class="shezhihanshu.yilaizhuru.TextEditor"

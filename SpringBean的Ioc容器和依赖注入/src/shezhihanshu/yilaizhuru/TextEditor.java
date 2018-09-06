@@ -12,7 +12,7 @@ public class TextEditor {
         return spellChecker;
     }
 
-    public void spellCheck(){
+    public void spellCheck() {
         spellChecker.checkSpelling();
     }
 }
