@@ -1,9 +1,14 @@
 package com.atguigu.test;
 
+import com.atguigu.bean.Person;
 import com.atguigu.config.MainConfig;
 import com.atguigu.config.MainConfig2;
 import org.junit.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.core.env.ConfigurableEnvironment;
+import org.springframework.core.env.Environment;
+
+import java.util.Map;
 
 public class IOCTest {
 
@@ -36,5 +41,23 @@ public class IOCTest {
         Object bean2 = applicationContext.getBean("person");
 
         System.out.println("bean默认都是单列---->" + (bean == bean2));
+    }
+
+    @SuppressWarnings("resource")
+    @Test
+    public void test03(){
+        AnnotationConfigApplicationContext applicationContext = new AnnotationConfigApplicationContext(MainConfig2.class);
+        String[] namesForType = applicationContext.getBeanNamesForType(Person.class);
+        for (String name : namesForType){
+            System.out.println(name);
+        }
+
+        //动态获取环境变量的值
+        ConfigurableEnvironment environment = applicationContext.getEnvironment();
+        String property = environment.getProperty("os.name");
+        System.out.println("操作系统" + property);
+
+        Map<String, Person> persons = applicationContext.getBeansOfType(Person.class);
+        System.out.println(persons);
     }
 }

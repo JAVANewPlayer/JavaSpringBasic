@@ -2,22 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fb434e1-30ae-4770-a577-86acbc60a162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfig2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/springannotation4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/src/main/java/com/atguigu/MainTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/src/main/java/com/atguigu/bean/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/src/main/java/com/atguigu/config/MainConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/src/main/resources/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/target/classes/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/target/classes/com/atguigu/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/target/classes/com/atguigu/bean/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-annotation-注解版/target/classes/com/atguigu/config/MainConfig.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/condition/LinuxCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/condition/WindowsCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/springannotation4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/src/main/java/com/atguigu/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/src/main/java/com/atguigu/bean/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/src/main/java/com/atguigu/config/MainConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/src/main/java/com/atguigu/config/MainConfig2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/src/main/java/com/atguigu/config/MyTypeFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/src/main/java/com/atguigu/controller/BookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/src/main/java/com/atguigu/dao/BookDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/src/main/java/com/atguigu/service/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/src/main/resources/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/src/test/java/com/atguigu/test/IOCTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/target/classes/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/target/classes/com/atguigu/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/target/classes/com/atguigu/bean/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/target/classes/com/atguigu/config/MainConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/target/classes/com/atguigu/config/MainConfig2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/target/classes/com/atguigu/config/MyTypeFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/target/classes/com/atguigu/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/target/classes/com/atguigu/dao/BookDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/target/classes/com/atguigu/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring注解之组件扫描规则和过滤规则_2/target/test-classes/com/atguigu/test/IOCTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -132,6 +145,7 @@
     <session id="404020534">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -150,51 +164,50 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="402" />
+          <entry key="java" value="476" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="402" />
+          <entry key="JAVA" value="476" />
         </counts>
       </usages-collector>
+    </session>
+    <session id="1356889473">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1328" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1328" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-43">
-              <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MyTypeFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/service/BookService.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -213,28 +226,66 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/test/IOCTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+            <state relative-caret-position="389">
+              <caret line="51" column="2" lean-forward="true" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#199#228#0" expanded="true" />
-                <element signature="e#573#602#0" expanded="true" />
+                <element signature="e#238#267#0" expanded="true" />
+                <element signature="e#613#642#0" expanded="true" />
+                <element signature="e#1219#1248#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfig2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+            <state relative-caret-position="248">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1272#1273#0" expanded="true" />
+                <element signature="e#1313#1314#0" expanded="true" />
+                <element signature="e#1369#1370#0" expanded="true" />
+                <element signature="e#1403#1404#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/condition/LinuxCondition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/condition/WindowsCondition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/MainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="17" column="51" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="17" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -242,7 +293,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/annotation/Scope.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
+            <state relative-caret-position="1224">
               <caret line="72" column="17" selection-start-line="71" selection-end-line="74" selection-end-column="79" />
             </state>
           </provider>
@@ -291,6 +342,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/config/MyTypeFilter.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/atguigu/test/IOCTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/condition/WindowsCondition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/condition/LinuxCondition.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfig2.java" />
       </list>
     </option>
@@ -351,36 +404,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring注解之组件扫描规则和过滤规则_2" type="462c0819:PsiDirectoryNode" />
+              <item name="spring注解之Scode作用域和懒加载_2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring注解之组件扫描规则和过滤规则_2" type="462c0819:PsiDirectoryNode" />
+              <item name="spring注解之Scode作用域和懒加载_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring注解之组件扫描规则和过滤规则_2" type="462c0819:PsiDirectoryNode" />
+              <item name="spring注解之Scode作用域和懒加载_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring注解之组件扫描规则和过滤规则_2" type="462c0819:PsiDirectoryNode" />
+              <item name="spring注解之Scode作用域和懒加载_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring注解之组件扫描规则和过滤规则_2" type="462c0819:PsiDirectoryNode" />
+              <item name="spring注解之Scode作用域和懒加载_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -388,7 +439,7 @@
             </path>
             <path>
               <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring注解之组件扫描规则和过滤规则_2" type="462c0819:PsiDirectoryNode" />
+              <item name="spring注解之Scode作用域和懒加载_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -397,7 +448,17 @@
             </path>
             <path>
               <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring注解之组件扫描规则和过滤规则_2" type="462c0819:PsiDirectoryNode" />
+              <item name="spring注解之Scode作用域和懒加载_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="condition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring注解之Scode作用域和懒加载_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -407,30 +468,20 @@
             </path>
             <path>
               <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring注解之组件扫描规则和过滤规则_2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring注解之组件扫描规则和过滤规则_2" type="462c0819:PsiDirectoryNode" />
+              <item name="spring注解之Scode作用域和懒加载_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring注解之组件扫描规则和过滤规则_2" type="462c0819:PsiDirectoryNode" />
+              <item name="spring注解之Scode作用域和懒加载_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring注解之组件扫描规则和过滤规则_2" type="462c0819:PsiDirectoryNode" />
+              <item name="spring注解之Scode作用域和懒加载_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -438,7 +489,7 @@
             </path>
             <path>
               <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring注解之组件扫描规则和过滤规则_2" type="462c0819:PsiDirectoryNode" />
+              <item name="spring注解之Scode作用域和懒加载_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -447,7 +498,7 @@
             </path>
             <path>
               <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring注解之组件扫描规则和过滤规则_2" type="462c0819:PsiDirectoryNode" />
+              <item name="spring注解之Scode作用域和懒加载_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -459,6 +510,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -492,7 +545,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IOCTest.test02">
+  <component name="RunManager" selected="JUnit.IOCTest.test03">
     <configuration name="MainTest" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -534,13 +587,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IOCTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.IOCTest" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.MainTest" />
       <item itemvalue="JUnit.IOCTest.test01" />
       <item itemvalue="JUnit.IOCTest.test02" />
+      <item itemvalue="JUnit.IOCTest.test03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IOCTest.test03" />
         <item itemvalue="JUnit.IOCTest.test02" />
         <item itemvalue="JUnit.IOCTest.test01" />
       </list>
@@ -560,56 +631,57 @@
       <workItem from="1536241126956" duration="908000" />
       <workItem from="1536242098351" duration="3040000" />
       <workItem from="1536246833176" duration="786000" />
-      <workItem from="1536247774744" duration="1486000" />
+      <workItem from="1536247774744" duration="1749000" />
+      <workItem from="1536277948896" duration="3192000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IOCTest_test01 - 2018.09.06 at 22h 59m 03s.xml">
-      <configuration name="IOCTest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_test01 - 2018.09.06 at 23h 24m 32s.xml">
-      <configuration name="IOCTest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_test01 - 2018.09.06 at 23h 25m 42s.xml">
-      <configuration name="IOCTest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_test01 - 2018.09.06 at 23h 31m 46s.xml">
-      <configuration name="IOCTest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_test02 - 2018.09.06 at 23h 43m 27s.xml">
+    <history-entry file="IOCTest_test02 - 2018.09.06 at 23h 55m 47s.xml">
       <configuration name="IOCTest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IOCTest_test01 - 2018.09.06 at 23h 46m 14s.xml">
-      <configuration name="IOCTest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_test01 - 2018.09.06 at 23h 50m 21s.xml">
-      <configuration name="IOCTest.test01" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="IOCTest_test02 - 2018.09.06 at 23h 51m 12s.xml">
+    <history-entry file="IOCTest_test02 - 2018.09.06 at 23h 56m 05s.xml">
       <configuration name="IOCTest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IOCTest_test02 - 2018.09.06 at 23h 51m 41s.xml">
+    <history-entry file="IOCTest_test02 - 2018.09.06 at 23h 57m 57s.xml">
       <configuration name="IOCTest.test02" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IOCTest_test02 - 2018.09.06 at 23h 54m 03s.xml">
+    <history-entry file="IOCTest_test02 - 2018.09.07 at 07h 56m 29s.xml">
       <configuration name="IOCTest.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_test02 - 2018.09.07 at 07h 56m 43s.xml">
+      <configuration name="IOCTest.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_test03 - 2018.09.07 at 08h 07m 11s.xml">
+      <configuration name="IOCTest.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_test03 - 2018.09.07 at 08h 09m 59s.xml">
+      <configuration name="IOCTest.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_test03 - 2018.09.07 at 08h 20m 18s.xml">
+      <configuration name="IOCTest.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_test03 - 2018.09.07 at 08h 47m 04s.xml">
+      <configuration name="IOCTest.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IOCTest_test03 - 2018.09.07 at 08h 52m 18s.xml">
+      <configuration name="IOCTest.test03" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6701000" />
+    <option name="totallyTimeSpent" value="10156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="81" y="36" width="1582" height="985" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2653595" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26928106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32951945" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32951945" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -649,13 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/controller/BookController.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -668,6 +733,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="42" column="10" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MyTypeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -685,6 +777,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/annotation/Scope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="17" selection-start-line="71" selection-end-line="74" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/annotation/AnnotationConfigApplicationContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1488">
@@ -699,58 +798,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/condition/WindowsCondition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MyTypeFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        <state relative-caret-position="313">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/condition/LinuxCondition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
-          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        <state relative-caret-position="370">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/context/annotation/Scope.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="72" column="17" selection-start-line="71" selection-end-line="74" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/test/IOCTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#199#228#0" expanded="true" />
-            <element signature="e#573#602#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfig2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+        <state relative-caret-position="248">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1272#1273#0" expanded="true" />
+            <element signature="e#1313#1314#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1403#1404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="17" column="51" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/test/IOCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="51" column="2" lean-forward="true" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#238#267#0" expanded="true" />
+            <element signature="e#613#642#0" expanded="true" />
+            <element signature="e#1219#1248#0" expanded="true" />
           </folding>
         </state>
       </provider>
