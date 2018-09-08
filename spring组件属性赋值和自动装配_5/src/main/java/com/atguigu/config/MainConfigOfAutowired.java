@@ -1,6 +1,10 @@
 package com.atguigu.config;
 
+import com.atguigu.dao.BookDao;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Primary;
 
 /**
  * 自动装配;
@@ -9,5 +13,14 @@ import org.springframework.context.annotation.Configuration;
  */
 
 @Configuration
+@ComponentScan({"com.atguigu.service","com.atguigu.dao","com.atguigu.controller"})
 public class MainConfigOfAutowired {
+
+    @Primary
+    @Bean("bookDao2")
+    public BookDao bookDao(){
+        BookDao bookDao = new BookDao();
+        bookDao.setLabel("2");
+        return bookDao;
+    }
 }

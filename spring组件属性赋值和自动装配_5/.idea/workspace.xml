@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fb434e1-30ae-4770-a577-86acbc60a162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfigOfAutowired.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfigOfPropertyValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/person.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/atguigu/test/IOCTestPropertyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atguigu/test/IOCTest_Autowired.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfigOfAutowired.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfigOfAutowired.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/dao/BookDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/dao/BookDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atguigu/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atguigu/controller/BookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atguigu/service/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atguigu/service/BookService.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -306,34 +309,35 @@
     <session id="-548568616">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
+          <entry key="java" value="11" />
           <entry key="properties" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="11" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="786" />
+          <entry key="java" value="1222" />
           <entry key="properties" value="39" />
           <entry key="xml" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="786" />
+          <entry key="JAVA" value="1222" />
           <entry key="Properties" value="39" />
           <entry key="XML" value="34" />
         </counts>
@@ -348,29 +352,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
+            <state relative-caret-position="312">
               <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfigOfLifeCycle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MyTypeFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -378,12 +361,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfigOfPropertyValues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="288">
               <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#397#398#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -392,8 +373,64 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfigOfAutowired.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+            <state relative-caret-position="167">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/test/IOCTest_Autowired.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/service/BookService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/dao/BookDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+              <folding>
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/controller/BookController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -411,34 +448,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/bean/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-              <folding>
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
-                <element signature="e#760#761#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/person.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/beans.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -446,7 +459,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/test/IOCTest_LifeCycle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
+            <state relative-caret-position="192">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -470,9 +483,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/controller/BookController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/service/BookService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/dao/BookDao.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/config/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfig.java" />
@@ -496,7 +506,11 @@
         <option value="$PROJECT_DIR$/src/main/resources/person.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfigOfPropertyValues.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/atguigu/test/IOCTestPropertyValue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/controller/BookController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/atguigu/test/IOCTest_Autowired.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/dao/BookDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfigOfAutowired.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/service/BookService.java" />
       </list>
     </option>
   </component>
@@ -521,7 +535,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="98" />
-    <option name="y" value="73" />
+    <option name="y" value="65" />
     <option name="width" value="1582" />
     <option name="height" value="985" />
   </component>
@@ -556,7 +570,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -624,6 +637,36 @@
               <item name="spring组件属性赋值和自动装配_5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring组件属性赋值和自动装配_5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring组件属性赋值和自动装配_5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springannotation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring组件属性赋值和自动装配_5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -670,6 +713,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -704,7 +748,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IOCTestPropertyValue.test01">
+  <component name="RunManager" selected="JUnit.IOCTest_Autowired.test01">
     <configuration name="MainTest" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -744,6 +788,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IOCTest_Autowired.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.IOCTest_Autowired" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IOCTest_LifeCycle.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-annotation" />
       <extension name="coverage">
@@ -776,37 +836,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOCTest.testImport" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-annotation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.test" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.test.IOCTest" />
-      <option name="METHOD_NAME" value="testImport" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.MainTest" />
-      <item itemvalue="JUnit.IOCTest.testImport" />
       <item itemvalue="JUnit.IOCTest.test04" />
       <item itemvalue="JUnit.IOCTest_LifeCycle.test01" />
       <item itemvalue="JUnit.IOCTestPropertyValue.test01" />
       <item itemvalue="JUnit.IOCTestPropertyValue" />
+      <item itemvalue="JUnit.IOCTest_Autowired.test01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IOCTest_Autowired.test01" />
         <item itemvalue="JUnit.IOCTestPropertyValue.test01" />
         <item itemvalue="JUnit.IOCTestPropertyValue" />
         <item itemvalue="JUnit.IOCTest_LifeCycle.test01" />
         <item itemvalue="JUnit.IOCTest.test04" />
-        <item itemvalue="JUnit.IOCTest.testImport" />
       </list>
     </recent_temporary>
   </component>
@@ -830,50 +874,50 @@
       <workItem from="1536326882808" duration="2081000" />
       <workItem from="1536332022192" duration="2088000" />
       <workItem from="1536334203801" duration="563000" />
-      <workItem from="1536365775618" duration="1976000" />
+      <workItem from="1536365775618" duration="2169000" />
+      <workItem from="1536414930773" duration="2409000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IOCTest_LifeCycle_test01 - 2018.09.07 at 23h 09m 29s.xml">
-      <configuration name="IOCTest_LifeCycle.test01" configurationId="JUnit" />
+    <history-entry file="IOCTest_Autowired_test01 - 2018.09.08 at 22h 12m 11s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IOCTest_LifeCycle_test01 - 2018.09.07 at 23h 10m 12s.xml">
-      <configuration name="IOCTest_LifeCycle.test01" configurationId="JUnit" />
+    <history-entry file="IOCTest_Autowired_test01 - 2018.09.08 at 22h 18m 58s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IOCTest_LifeCycle_test01 - 2018.09.07 at 23h 20m 31s.xml">
-      <configuration name="IOCTest_LifeCycle.test01" configurationId="JUnit" />
+    <history-entry file="IOCTest_Autowired_test01 - 2018.09.08 at 22h 19m 55s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IOCTest_LifeCycle_test01 - 2018.09.07 at 23h 28m 32s.xml">
-      <configuration name="IOCTest_LifeCycle.test01" configurationId="JUnit" />
+    <history-entry file="IOCTest_Autowired_test01 - 2018.09.08 at 22h 22m 30s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IOCTestPropertyValue_test01 - 2018.09.08 at 08h 24m 24s.xml">
-      <configuration name="IOCTestPropertyValue.test01" configurationId="JUnit" />
+    <history-entry file="IOCTest_Autowired_test01 - 2018.09.08 at 22h 24m 09s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IOCTestPropertyValue_test01 - 2018.09.08 at 08h 25m 38s.xml">
-      <configuration name="IOCTestPropertyValue.test01" configurationId="JUnit" />
+    <history-entry file="IOCTest_Autowired_test01 - 2018.09.08 at 22h 27m 40s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IOCTestPropertyValue_test01 - 2018.09.08 at 08h 28m 47s.xml">
-      <configuration name="IOCTestPropertyValue.test01" configurationId="JUnit" />
+    <history-entry file="IOCTest_Autowired_test01 - 2018.09.08 at 22h 31m 49s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IOCTestPropertyValue_test01 - 2018.09.08 at 08h 39m 31s.xml">
-      <configuration name="IOCTestPropertyValue.test01" configurationId="JUnit" />
+    <history-entry file="IOCTest_Autowired_test01 - 2018.09.08 at 22h 33m 43s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IOCTestPropertyValue - 2018.09.08 at 08h 40m 05s.xml">
-      <configuration name="IOCTestPropertyValue" configurationId="JUnit" />
+    <history-entry file="IOCTest_Autowired_test01 - 2018.09.08 at 22h 34m 36s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IOCTestPropertyValue_test01 - 2018.09.08 at 08h 43m 37s.xml">
-      <configuration name="IOCTestPropertyValue.test01" configurationId="JUnit" />
+    <history-entry file="IOCTest_Autowired_test01 - 2018.09.08 at 22h 35m 12s.xml">
+      <configuration name="IOCTest_Autowired.test01" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18833000" />
+    <option name="totallyTimeSpent" value="21435000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="98" y="73" width="1582" height="985" extended-state="0" />
-    <editor active="true" />
+    <frame x="98" y="65" width="1582" height="985" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29738563" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3019608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -913,13 +957,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/controller/BookController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.12.RELEASE/spring-context-4.3.12.RELEASE-sources.jar!/org/springframework/stereotype/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
@@ -931,20 +968,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/service/BookService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/dao/BookDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1123,10 +1146,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MyTypeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/person.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/test/IOCTest_LifeCycle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="192">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfigOfPropertyValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1143,43 +1190,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/person.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/controller/BookController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfigOfPropertyValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="168">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="312">
           <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MyTypeFilter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/service/BookService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        <state relative-caret-position="294">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/atguigu/test/IOCTest_Autowired.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/dao/BookDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/config/MainConfigOfAutowired.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        <state relative-caret-position="167">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
