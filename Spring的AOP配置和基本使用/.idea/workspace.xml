@@ -1,32 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1fe6dfd-c44b-43e7-ae7c-58161fe4626a" name="Default" comment="" />
+    <list default="true" id="b1fe6dfd-c44b-43e7-ae7c-58161fe4626a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven创建Spring项目/target/classes/com/wacai/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven创建Spring项目/target/classes/com/wacai/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven创建Spring项目/target/classes/com/wacai/CStartEventHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven创建Spring项目/target/classes/com/wacai/CStartEventHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven创建Spring项目/target/classes/com/wacai/CStopEventHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven创建Spring项目/target/classes/com/wacai/CStopEventHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven创建Spring项目/target/classes/com/wacai/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven创建Spring项目/target/classes/com/wacai/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven创建Spring项目/target/classes/com/wacai/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven创建Spring项目/target/classes/com/wacai/MainApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven创建Spring项目/target/test-classes/com/wacai/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven创建Spring项目/target/test-classes/com/wacai/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJDBC框架基本使用/target/classes/SpringJDBC/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJDBC框架基本使用/target/classes/SpringJDBC/MainApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJDBC框架基本使用/target/classes/SpringJDBC/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJDBC框架基本使用/target/classes/SpringJDBC/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJDBC框架基本使用/target/classes/SpringJDBC/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJDBC框架基本使用/target/classes/SpringJDBC/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJDBC框架基本使用/target/classes/SpringJDBC/UserJDBCTemplate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJDBC框架基本使用/target/classes/SpringJDBC/UserJDBCTemplate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJDBC框架基本使用/target/classes/SpringJDBC/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJDBC框架基本使用/target/classes/SpringJDBC/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJDBC框架基本使用/target/classes/SpringJDBCBeans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringJDBC框架基本使用/target/test-classes/com/wacai/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringJDBC框架基本使用/target/test-classes/com/wacai/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring事物管理/target/classes/bianchengshi/shiwuguanli/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring事物管理/target/classes/bianchengshi/shiwuguanli/MainApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring事物管理/target/classes/bianchengshi/shiwuguanli/PostComments.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring事物管理/target/classes/bianchengshi/shiwuguanli/PostComments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring事物管理/target/classes/bianchengshi/shiwuguanli/PostCommentsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring事物管理/target/classes/bianchengshi/shiwuguanli/PostCommentsMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring事物管理/target/classes/bianchengshi/shiwuguanli/PostDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring事物管理/target/classes/bianchengshi/shiwuguanli/PostDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring事物管理/target/classes/bianchengshi/shiwuguanli/PostJDBCTemplate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring事物管理/target/classes/bianchengshi/shiwuguanli/PostJDBCTemplate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring事物管理/target/classes/bianchengshiShiwuguanli.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring事物管理/target/test-classes/spring/shiwuguanli/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring事物管理/target/test-classes/spring/shiwuguanli/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring的AOP配置和基本使用.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo/FighterPlane.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo/FighterPlane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo/FireAssist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo/FireAssist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo/Fireable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo/Fireable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo/MainApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo/Tank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo/Tank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo2/FighterPlane.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo2/FighterPlane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo2/FireAssist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo2/FireAssist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo2/Fireable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo2/Fireable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo2/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo2/MainApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo2/Tank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/twm/spring/aopdemo2/Tank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/XMLpeizhi/AOP/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/XMLpeizhi/AOP/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/bean/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/bean/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/condition/LinuxCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/condition/LinuxCondition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/condition/WindowsCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/condition/WindowsCondition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/config/MainConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/config/MainConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/config/MainConfig2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/config/MainConfig2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/config/MyTypeFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/config/MyTypeFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/controller/BookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/dao/BookDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/dao/BookDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/service/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/classes/com/atguigu/service/BookService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/test-classes/com/atguigu/test/IOCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spring组件注册之Scode作用域、懒加载、自定义Condition_2/target/test-classes/com/atguigu/test/IOCTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-259034517">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.file.extensions.edit" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Git file" value="1" />
+          <entry key="JAVA" value="5" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="5" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="XMLpeizhiAop.xml" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/XMLpeizhiAop.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="24" lean-forward="true" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="264">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/MainApp.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/FireAssist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="120">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,64 +111,67 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FireAssist.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/FireAssist.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/MainApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state relative-caret-position="139">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zhushipeizhiAop.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/zhushipeizhiAop.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/Tank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            <state relative-caret-position="144">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="参考地址.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/参考地址.txt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="54" selection-start-column="54" selection-end-column="54" />
+            <state relative-caret-position="504">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FighterPlane.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/FighterPlane.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/FighterPlane.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+            <state relative-caret-position="144">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/MainApp.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/Fireable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fireable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/Fireable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
+            <state relative-caret-position="48">
               <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FireAssist.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/Fireable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/FireAssist.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
+            <state relative-caret-position="288">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -100,10 +180,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tank.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/Tank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
+            <state relative-caret-position="48">
               <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
             </state>
           </provider>
@@ -119,6 +199,9 @@
         <option value="spring-beans.schema" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -136,6 +219,7 @@
         <option value="$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/FighterPlane.java" />
         <option value="$PROJECT_DIR$/src/main/resources/zhushipeizhiAop.xml" />
         <option value="$PROJECT_DIR$/参考地址.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -159,15 +243,13 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="242" />
-    <option name="y" value="70" />
+    <option name="x" value="175" />
+    <option name="y" value="130" />
     <option name="width" value="1356" />
     <option name="height" value="901" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -204,6 +286,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="twm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring的AOP配置和基本使用" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring的AOP配置和基本使用" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="twm" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -212,6 +303,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="twm" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
               <item name="aopdemo" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -220,39 +312,21 @@
               <item name="Spring的AOP配置和基本使用" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="aopdemo2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring的AOP配置和基本使用" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring的AOP配置和基本使用" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring的AOP配置和基本使用" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring的AOP配置和基本使用" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring的AOP配置和基本使用" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -282,52 +356,37 @@
       <option name="MAIN_CLASS_NAME" value="twm.spring.aopdemo.MainApp" />
       <module name="Spring的AOP配置和基本使用" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="zhushipeizhiAop" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="twm.spring.aopdemo2.MainApp" />
       <module name="Spring的AOP配置和基本使用" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Application.XMLpeizhiAop" />
@@ -345,45 +404,47 @@
       <option name="presentableId" value="Default" />
       <updated>1534341637977</updated>
       <workItem from="1534341645333" duration="2287000" />
+      <workItem from="1538196952266" duration="943000" />
+      <workItem from="1538200797257" duration="148000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2287000" />
+    <option name="totallyTimeSpent" value="3378000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="70" width="1356" height="901" extended-state="0" />
+    <frame x="175" y="130" width="1356" height="901" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32889965" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32889965" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.320059" />
-      <window_info anchor="right" id="Database" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3320552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34177214" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32889965" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,75 +454,51 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/Fireable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/zhushipeizhiAop.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="312">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/参考地址.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/Tank.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state relative-caret-position="1032">
+          <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/FighterPlane.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/FighterPlane.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/MainApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/FireAssist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="48">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/MainApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        <state relative-caret-position="360">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/XMLpeizhiAop.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/Fireable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="24" lean-forward="true" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/Tank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/FireAssist.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
+        <state relative-caret-position="288">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -469,31 +506,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/Fireable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/Tank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo2/FighterPlane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
+        <state relative-caret-position="48">
           <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/zhushipeizhiAop.xml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        <state relative-caret-position="504">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/参考地址.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/XMLpeizhiAop.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="54" selection-start-column="54" selection-end-column="54" />
+        <state relative-caret-position="264">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/Tank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/FighterPlane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/Fireable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/twm/spring/aopdemo/FireAssist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
